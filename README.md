@@ -1,4 +1,4 @@
-# This is the _final_ motherfucking website.
+# Adrienne Lancelot
 
 And it's _really_ more fucking perfect than the last guy's.
 
