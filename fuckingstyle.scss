@@ -21,7 +21,11 @@ main {
   margin: 40px auto;
   padding: 0 10px;
 
-  color: #444;
+  
+  background: rgba(255, 255, 255, 0.85); /* opaque white */
+  border-radius: 12px;
+
+  backdrop-filter: blur(4px); /* optional glass effect */
 }
 
 
