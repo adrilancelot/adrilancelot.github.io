@@ -2,6 +2,11 @@
 
 /!\ Website in construction.
 
+[Research](#research-link) -- [Publications](#publications-link) -- [Teaching](#teaching-link) -- [Misc](#service-link)
+
+
+
+
 I am a postdoctoral researcher in the University of Bologna working with [Ugo Dal Lago](https://udallago.github.io/).
 
 
@@ -39,6 +44,7 @@ My **PhD Manuscript** *Comparing functional programs, or how to put λ-terms bac
 ---
 
 # Research
+<a name="research-link">
 
 I work on untyped lambda-calculus and its variants, investigating operational and denotational semantics.
 
@@ -49,6 +55,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 **What I wish to learn more of:** (operational) game semantics, models of the lambda-calculus, (verified) compilers, pi-calculus, realizability, fixed-point combinators, induction and coinduction, cyclic proofs...
 
 ## Papers
+<a name="publications-link">
 
 ### In proceedings
 
@@ -74,6 +81,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 * **Normal Form Bisimulations by Value** — Accattoli, Lancelot and Faggian ([technical report](https://arxiv.org/abs/2303.08161))
 
 ## Talks
+<a name="talks-link">
 
 ### Upcoming
 
@@ -132,9 +140,20 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 * October 19th 2022 — [GT Syntax Meets Semantics](https://www.irif.fr/seminaires/sms/index) (talk titled *Open Call-by-Value and Open Similarity*)
 
 # Teaching / Enseignement
+<a name="teaching-link">
 
-I teach at undergraduate level in the UFR d'informatique at Université Paris Cité.
+I am giving lab lectures for the Introduction to Quantum Computing class in the University of Bologna.
+<details>
+<summary>Teaching at University of Bologna, 2026. Details:</summary>
+## 2026
 
+* Introduction to Quantum Computing, three lab lectures -- Qiskit Python module
+</details>
+
+I taught at undergraduate level in the UFR d'informatique at Université Paris Cité during my PhD **2022--2025**.
+
+<details>
+<summary>Teaching at Université Paris Cité, 2022--2025. Details:</summary>
 ## 2024–2025
 
 * TP Initiation aux Systèmes d'Exploitation (L1 S1) — Unix & bash
@@ -152,11 +171,14 @@ I teach at undergraduate level in the UFR d'informatique at Université Paris Ci
 * TD+TP en Initiation à la Programmation 2 (L1) — Java
 * Encadrement de Projet de Programmation (L2) — Java
 
-I am also often involved in *Fête de la Science* (popularization and activities around Computer Science targeted at primary school students) and supervising high school students in small programming exercises during their observation internships.
+I was also often involved in *Fête de la Science* (popularization and activities around Computer Science targeted at primary school students) and supervising high school students in small programming exercises during their observation internships.
+</details>
 
 ---
 
 # Miscellaneous
+
+<a name="service-link">
 
 ## Conference Organization
 
