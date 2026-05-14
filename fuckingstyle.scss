@@ -11,7 +11,7 @@ body {
   background-image: url("assets/lambda.png");
   background-repeat: repeat;
   background-position: left center;
-  background-size: 300px auto;
+  background-size: 100px auto;
   background-attachment: fixed;
 }
 
@@ -20,6 +20,8 @@ main {
   max-width: 650px;
   margin: 40px auto;
   padding: 0 10px;
+
+  color: #444;
 }
 
 
