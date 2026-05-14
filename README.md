@@ -2,7 +2,7 @@
 
 /!\ Website in construction.
 
-[Research](#research-link) -- [Publications](#publications-link) -- [Teaching](#teaching-link) -- [Misc](#service-link)
+[Research](#research-link) -- [Publications](#publications-link)  -- [Talks](#talks-link) -- [Teaching](#teaching-link) -- [Misc](#service-link)
 
 
 
@@ -43,8 +43,8 @@ My **PhD Manuscript** *Comparing functional programs, or how to put λ-terms bac
 
 ---
 
-# Research
 <a name="research-link">
+# Research
 
 I work on untyped lambda-calculus and its variants, investigating operational and denotational semantics.
 
@@ -54,8 +54,8 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 **What I wish to learn more of:** (operational) game semantics, models of the lambda-calculus, (verified) compilers, pi-calculus, realizability, fixed-point combinators, induction and coinduction, cyclic proofs...
 
-## Papers
 <a name="publications-link">
+## Papers
 
 ### In proceedings
 
@@ -80,8 +80,9 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 * **Normal Form Bisimulations by Value** — Accattoli, Lancelot and Faggian ([technical report](https://arxiv.org/abs/2303.08161))
 
-## Talks
+
 <a name="talks-link">
+## Talks
 
 ### Upcoming
 
@@ -139,8 +140,10 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 * May 11th 2023 — Chocola ([slides](https://www.irif.fr/_media/users/lancelot/slides-chocola-lancelot-11-05.pdf))
 * October 19th 2022 — [GT Syntax Meets Semantics](https://www.irif.fr/seminaires/sms/index) (talk titled *Open Call-by-Value and Open Similarity*)
 
-# Teaching / Enseignement
+
+
 <a name="teaching-link">
+# Teaching / Enseignement
 
 I am giving lab lectures for the Introduction to Quantum Computing class in the University of Bologna.
 <details>
@@ -176,9 +179,9 @@ I was also often involved in *Fête de la Science* (popularization and activitie
 
 ---
 
+<a name="service-link">
 # Miscellaneous
 
-<a name="service-link">
 
 ## Conference Organization
 
