@@ -2,17 +2,21 @@
 
 /!\ Website in construction.
 
-[Research](#research-link) -- [Publications](#publications-link)  -- [Talks](#talks-link) -- [Teaching](#teaching-link) -- [Misc](#service-link)
+[Research](#research) -- [Publications](#publications)  -- [Talks](#talks) -- [Teaching](#teaching) -- [Misc](#service)
 
 
 
 
 I am a postdoctoral researcher in the University of Bologna working with [Ugo Dal Lago](https://udallago.github.io/).
 
-**PhD**:
-From Sept 2022 to Nov 2025, I was a PhD student under the supervision of [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (LIX Partout, INRIA) and [Giulio Manzonetto](https://www.irif.fr/~gmanzone/) (IRIF, Université Paris Cité). *Previously on Adrienne's official PhD supervision team (change made only for admin reasons):* [Claudia Faggian](https://www.irif.fr/~faggian/) (IRIF, CNRS).
 
-To email me: `adrienne dot lancelot at unibo dot it` (`lancelot at irif dot fr` also still works)
+To email me: `adrienne dot lancelot at unibo dot it`
+
+(`lancelot at irif dot fr` also still works)
+
+(I also have an active inria email address)
+
+(please refrain from overusing/sharing my gmail address)
 
 ## News
 
@@ -22,16 +26,30 @@ To email me: `adrienne dot lancelot at unibo dot it` (`lancelot at irif dot fr` 
 
 * I am starting a postdoc with [Ugo Dal Lago](https://udallago.github.io/) at the University of Bologna in December 2025.
 
-* I just [defended](https://www.irif.fr/https://www.irif.fr/_media/users/lancelot/soutenance) my PhD thesis titled *Comparing functional programs, or how to put λ-terms back in order* on **November 13th 2025** at the IRIF lab.
+
+<details>
+<summary>
+
+**About my PhD**:
+
+</summary>
+
+From Sept 2022 to Nov 2025, I was a PhD student under the supervision of [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (LIX Partout, INRIA) and [Claudia Faggian](https://www.irif.fr/~faggian/) (IRIF, CNRS)`;'[Giulio Manzonetto](https://www.irif.fr/~gmanzone/) (IRIF, Université Paris Cité).
+
+
+* I [defended](https://www.irif.fr/users/lancelot/soutenance) my PhD thesis titled *Comparing functional programs, or how to put λ-terms back in order* on **November 13th 2025** at the IRIF lab.
 
 My **PhD Manuscript** *Comparing functional programs, or how to put λ-terms back in order*:
 
 * Print version (two-sided alternating margins): [pdf](https://www.irif.fr/_media/users/lancelot/thesis_v09-12-2025b.pdf)
 * Web read version (one sided non alternating margins): [pdf](https://www.irif.fr/_media/users/lancelot/thesis-onesided_v09-12-2025.pdf)
 
+</details>
+
+
 ---
 
-<a name="research-link">
+<a name="research">
 # Research
 
 I work on untyped lambda-calculus and its variants, investigating operational and denotational semantics.
@@ -42,7 +60,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 **What I wish to learn more of:** (operational) game semantics, models of the lambda-calculus, (verified) compilers, pi-calculus, realizability, fixed-point combinators, induction and coinduction, cyclic proofs...
 
-<a name="publications-link">
+<a name="publications">
 ## Papers
 
 ### In proceedings
@@ -69,7 +87,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 * **Normal Form Bisimulations by Value** — Accattoli, Lancelot and Faggian ([technical report](https://arxiv.org/abs/2303.08161))
 
 
-<a name="talks-link">
+<a name="talks">
 ## Talks
 
 ### Upcoming
@@ -135,16 +153,27 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 I am giving lab lectures for the Introduction to Quantum Computing class in the University of Bologna.
 <details>
-<summary>Teaching at University of Bologna, 2026. Details:</summary>
+<summary>
+
+Teaching at University of Bologna, 2026. Details:
+
+</summary>
+
 ## 2026
 
 * Introduction to Quantum Computing, three lab lectures -- Qiskit Python module
+
 </details>
 
 I taught at undergraduate level in the UFR d'informatique at Université Paris Cité during my PhD **2022--2025**.
 
 <details>
-<summary>Teaching at Université Paris Cité, 2022--2025. Details:</summary>
+<summary>
+
+Teaching at Université Paris Cité, 2022--2025. Details:
+
+</summary>
+
 ## 2024–2025
 
 * TP Initiation aux Systèmes d'Exploitation (L1 S1) — Unix & bash
@@ -163,12 +192,24 @@ I taught at undergraduate level in the UFR d'informatique at Université Paris C
 * Encadrement de Projet de Programmation (L2) — Java
 
 I was also often involved in *Fête de la Science* (popularization and activities around Computer Science targeted at primary school students) and supervising high school students in small programming exercises during their observation internships.
+
 </details>
 
 ---
 
-<a name="service-link">
+<a name="service">
 # Miscellaneous
+
+
+## Reviewing
+
+**Program Committees**:
+* 2027: PC member of [CSL 2027](https://csl2027.github.io/)
+* 2026: PC member of [GALOP 2026](https://galop-2026.lacl.fr/) and [TLLA 2026](https://lipn.univ-paris13.fr/TLLA/2026/)
+
+**External Reviewer**:
+* 2026: FoSSaCS 2026, Journal of Logic and Computation, ICFP 2026, Wollic 2026
+
 
 
 ## Conference Organization
