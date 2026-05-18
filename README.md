@@ -9,19 +9,7 @@
 
 I am a postdoctoral researcher in the University of Bologna working with [Ugo Dal Lago](https://udallago.github.io/).
 
-
-
-
-
-![lambda](./assets/lambda.png)
-
-
-# Adrienne Lancelot
-
-![Lambda image](https://www.irif.fr/_media/users/lancelot/lambda.png)
-
-I am now a postdoc at the University of Bologna working with [Ugo Dal Lago](https://udallago.github.io/).
-
+**PhD**:
 From Sept 2022 to Nov 2025, I was a PhD student under the supervision of [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (LIX Partout, INRIA) and [Giulio Manzonetto](https://www.irif.fr/~gmanzone/) (IRIF, Université Paris Cité). *Previously on Adrienne's official PhD supervision team (change made only for admin reasons):* [Claudia Faggian](https://www.irif.fr/~faggian/) (IRIF, CNRS).
 
 To email me: `adrienne dot lancelot at unibo dot it` (`lancelot at irif dot fr` also still works)
