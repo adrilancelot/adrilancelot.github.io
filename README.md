@@ -26,23 +26,44 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 * I am starting a postdoc with [Ugo Dal Lago](https://udallago.github.io/) at the University of Bologna in December 2025.
 
-
 <details>
-<summary>
+<summary><strong>About my PhD:</strong></summary>
 
-**About my PhD**:
+<p>
+From Sept 2022 to Nov 2025, I was a PhD student under the supervision of
+<a href="https://sites.google.com/site/beniaminoaccattoli/">Beniamino Accattoli</a>
+(LIX Partout, INRIA) and
+<a href="https://www.irif.fr/~faggian/">Claudia Faggian</a>
+(IRIF, CNRS) `;`
+<a href="https://www.irif.fr/~gmanzone/">Giulio Manzonetto</a>
+(IRIF, Université Paris Cité).
+</p>
 
-</summary>
+<ul>
+<li>
+I <a href="https://www.irif.fr/users/lancelot/soutenance">defended</a>
+my PhD thesis titled
+<em>Comparing functional programs, or how to put λ-terms back in order</em>
+on <strong>November 13th 2025</strong> at the IRIF lab.
+</li>
+</ul>
 
-From Sept 2022 to Nov 2025, I was a PhD student under the supervision of [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/) (LIX Partout, INRIA) and [Claudia Faggian](https://www.irif.fr/~faggian/) (IRIF, CNRS)`;'[Giulio Manzonetto](https://www.irif.fr/~gmanzone/) (IRIF, Université Paris Cité).
+<p>
+<strong>PhD Manuscript:</strong>
+<em>Comparing functional programs, or how to put λ-terms back in order</em>
+</p>
 
+<ul>
+<li>
+Print version (two-sided alternating margins):
+<a href="https://www.irif.fr/_media/users/lancelot/thesis_v09-12-2025b.pdf">pdf</a>
+</li>
 
-* I [defended](https://www.irif.fr/users/lancelot/soutenance) my PhD thesis titled *Comparing functional programs, or how to put λ-terms back in order* on **November 13th 2025** at the IRIF lab.
-
-My **PhD Manuscript** *Comparing functional programs, or how to put λ-terms back in order*:
-
-* Print version (two-sided alternating margins): [pdf](https://www.irif.fr/_media/users/lancelot/thesis_v09-12-2025b.pdf)
-* Web read version (one sided non alternating margins): [pdf](https://www.irif.fr/_media/users/lancelot/thesis-onesided_v09-12-2025.pdf)
+<li>
+Web read version (one-sided non-alternating margins):
+<a href="https://www.irif.fr/_media/users/lancelot/thesis-onesided_v09-12-2025.pdf">pdf</a>
+</li>
+</ul>
 
 </details>
 
@@ -150,48 +171,49 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 <a name="teaching-link">
 # Teaching / Enseignement
+I am giving lab lectures for the Introduction to Quantum Computing class at the University of Bologna.
 
-I am giving lab lectures for the Introduction to Quantum Computing class in the University of Bologna.
 <details>
-<summary>
+<summary>Teaching at University of Bologna, 2026. Details:</summary>
 
-Teaching at University of Bologna, 2026. Details:
+<h2>2026</h2>
 
-</summary>
-
-## 2026
-
-* Introduction to Quantum Computing, three lab lectures -- Qiskit Python module
+<ul>
+<li>Introduction to Quantum Computing, three lab lectures — Qiskit Python module</li>
+</ul>
 
 </details>
 
 I taught at undergraduate level in the UFR d'informatique at Université Paris Cité during my PhD **2022--2025**.
 
 <details>
-<summary>
+<summary>Teaching at Université Paris Cité, 2022--2025. Details:</summary>
 
-Teaching at Université Paris Cité, 2022--2025. Details:
+<h2>2024–2025</h2>
 
-</summary>
+<ul>
+<li>TP Initiation aux Systèmes d'Exploitation (L1 S1) — Unix & bash</li>
+<li>TP Programmation Orientée Objet (L2 S1) — Java</li>
+<li>Conduite de Projet (L2 S1) — Java</li>
+</ul>
 
-## 2024–2025
+<h2>2023–2024</h2>
 
-* TP Initiation aux Systèmes d'Exploitation (L1 S1) — Unix & bash
-* TP Programmation Orientée Objet (L2 S1) — Java
-* Conduite de Projet (L2 S1) — Java
+<ul>
+<li>TP Langage C (L2 S2) — C</li>
+<li>TP Programmation fonctionnelle pour le web (L1 S2) — OCaml</li>
+<li>TP Informatique (CUPGE 1ère Année) — Python</li>
+</ul>
 
-## 2023–2024
+<h2>2022–2023</h2>
 
-* TP Langage C (L2 S2) — C
-* TP Programmation fonctionnelle pour le web (L1 S2) — OCaml
-* TP Informatique (CUPGE 1ère Année) — Python
+<ul>
+<li>TD+TP en Initiation à la Programmation 2 (L1) — Java</li>
+<li>Encadrement de Projet de Programmation (L2) — Java</li>
+</ul>
 
-## 2022–2023
 
-* TD+TP en Initiation à la Programmation 2 (L1) — Java
-* Encadrement de Projet de Programmation (L2) — Java
-
-I was also often involved in *Fête de la Science* (popularization and activities around Computer Science targeted at primary school students) and supervising high school students in small programming exercises during their observation internships.
+I was also often involved in *Fête de la Science* (popularization and activities around Computer Science targeted at primary school students) and supervised high school students in small programming exercises during their observation internships.
 
 </details>
 
