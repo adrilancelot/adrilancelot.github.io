@@ -16,7 +16,7 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 (I also have an active inria email address)
 
-(please refrain from overusing/sharing my gmail address)
+(please avoid overusing/sharing my gmail address)
 
 ## News
 
@@ -86,7 +86,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 ### In proceedings
 
-* **Interaction Improvement** — Lancelot, Manzonetto, McCusker and Vanoni, Accepted for publication at FoSSaCS 2026 ([paper at publisher's](https://doi.org/10.1007/978-3-032-22730-0_18), [preferred version with proofs](https://arxiv.org/abs/2601.01638))
+* **Interaction Improvement** — Lancelot, Manzonetto, McCusker and Vanoni, FoSSaCS 2026 ([paper at publisher's](https://doi.org/10.1007/978-3-032-22730-0_18), [preferred version with proofs](https://arxiv.org/abs/2601.01638))
 
 * **Barendregt's Theory of the Lambda-Calculus, Refreshed and Formalized** — Lancelot, Accattoli and Vemclefs, ITP 2025 ([paper](https://doi.org/10.4230/LIPIcs.ITP.2025.13) — [formalization](https://github.com/adrilancelot/Abella-lambda-Barendregt-theory))
   *Results formalized in the [Abella](https://abella-prover.org/) proof assistant.*
@@ -169,7 +169,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 
 
-<a name="teaching-link">
+<a name="teaching">
 # Teaching / Enseignement
 I am giving lab lectures for the Introduction to Quantum Computing class at the University of Bologna.
 
@@ -250,4 +250,4 @@ I was also often involved in *Fête de la Science* (popularization and activitie
 
 <sub>My coaster-count is 165. (updated August 30th 2025)</sub>
 
-*Credit to [Mariana Milicich](https://www.irif.fr/users/milicich/index) for the “lambda” picture.*
+*Credit to [Mariana Milicich](https://www.irif.fr/users/milicich/index) for the `^?_?lambda^?_?` picture.*
