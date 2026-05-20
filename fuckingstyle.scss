@@ -37,7 +37,20 @@ h3 {
   body {
     color: #c9d1d9;
     background: #0d1117;
+    
+  background-image: url("assets/darklambda.png");
+  background-repeat: repeat;
+  background-position: left center;
+  background-size: 100px auto;
+  background-attachment: fixed;
+}
+
+
+  main {
+    background: rgba(13, 17, 23, 0.85); /* dark opaque panel */
   }
+
+
 
   a:link {
     color: #58a6ff;
