@@ -113,7 +113,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 ### Upcoming
 
-* May 21st — LSC, LIS, Marseille
+* May 21st — LSC, LIS, Marseille ([slides](https://www.irif.fr/_media/users/lancelot/lsc_lancelot_21may2026.pdf))
 * April 15th — **Interaction Improvement** — FoSSaCS 2026 in Torino, Italy ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_fossacs_intimprovement.pdf) — [poster](https://www.irif.fr/_media/users/lancelot/poster_etaps_interaction_improvement_final_web.pdf))
 
 ### Miscellaneous
