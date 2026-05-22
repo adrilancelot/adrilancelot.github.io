@@ -6,15 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
     <link rel="stylesheet" href="{{ '/fuckingstyle.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/png" href="assets/lambda.png">
-    <link rel="icon"
-      type="image/png"
-      href="assets/lambda.png"
-      media="(prefers-color-scheme: light)">
-    <link rel="icon"
-      type="image/png"
-      href="assets/dark_lambda.png"
-      media="(prefers-color-scheme: dark)">
+    <link id="webicon" rel="icon" type="image/png" href="assets/lambda.png">
+
+<script>
+function updateWebicon() {
+    const webicon = document.getElementById("webicon");
+
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        webicon.href = "assets/dark_lambda.png";
+    } else {
+        webicon.href = "assets/lambda.png";
+    }
+}
+
+updateWebicon();
+
+window.matchMedia("(prefers-color-scheme: dark)")
+      .addEventListener("change", updateWebicon);
+</script>
+
+    
   </head>
   <body>
     <main>
