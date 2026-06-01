@@ -145,7 +145,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 ### *Interaction Improvement*
 
 * April 15th — FoSSaCS 2026 in Torino, Italy ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_fossacs_intimprovement.pdf) — [poster](https://www.irif.fr/_media/users/lancelot/poster_etaps_interaction_improvement_final_web.pdf))
-* November 17 2025 — [GdT Plume Seminar](https://www.ens-lyon.fr/LIP/PLUME/202-2/), ENS Lyon ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_slides_plume_nov2025_v2.pdf)) — talk titled **Interaction Equivalence and Improvement**
+* November 17 2025 — [GdT Plume Seminar](https://www.ens-lyon.fr/LIP/PLUME/202-2/), ENS Lyon ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_slides_plume_nov2025_v2.pdf), talk titled *Interaction Equivalence and Improvement*)
 
 ### *Barendregt's Theory of the λ-Calculus, Refreshed and Formalized*
 
@@ -177,7 +177,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 ### *Light Genericity*
 
-* May 21st — LSC, LIS, Marseille ([slides](https://www.irif.fr/_media/users/lancelot/lsc_lancelot_21may2026.pdf), talk titled *Minimum and Maximum \(\lambda \)-Terms*)
+* May 21st — LSC, LIS, Marseille ([slides](https://www.irif.fr/_media/users/lancelot/lsc_lancelot_21may2026.pdf), talk titled *Minimum and Maximum λ-Terms*)
 * April 10th 2024 — FoSSaCS 2024, Luxembourg ([slides](https://www.irif.fr/_media/users/lancelot/light_genericity_fossacs_lancelot.pdf))
 * February 22nd 2024 — [Séminaire PPS](seminaires/pps/index) ([slides](https://www.irif.fr/_media/users/lancelot/slides_pps_genericite.pdf))
 * November 28th 2023 — [GT Scalp Days](https://www.irif.fr/gt-scalp/journees-2023)
