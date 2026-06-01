@@ -20,11 +20,32 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
+* See you at FLoC 2026! I will be presenting in three contributed talks in the workshops [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) and [PERR](https://perr-workshop.github.io/2026/).
+
+* A [long version](https://arxiv.org/abs/2402.12078v4) of *Mirroring Call-by-Need, or Values Acting Silly* has been accepted in the FSCD 2024 special issue of LMCS.
+
 * I am in the PC of [CSL 2027](https://csl2027.github.io/).
 
-* I am in the PC of the FLoC workshops [GALOP 2026](https://galop-2026.lacl.fr/) and [TLLA 2026](https://lipn.univ-paris13.fr/TLLA/2026/). Don't forget to submit an abstract!
 
-* I am starting a postdoc with [Ugo Dal Lago](https://udallago.github.io/) at the University of Bologna in December 2025.
+<details>
+<summary><strong>Older News:</strong></summary>
+
+
+<ul>
+<li>
+I am in the PC of the FLoC workshops 
+<a href="https://galop-2026.lacl.fr/">GALOP 2026</a> and 
+<a href="https://lipn.univ-paris13.fr/TLLA/2026/">TLLA 2026</a>. Don't forget to submit an abstract!
+
+</li>
+
+<li>
+I am starting a postdoc with 
+<a href="https://udallago.github.io/">Ugo Dal Lago</a>at the University of Bologna in December 2025.
+</li>
+</ul>
+
+</details>
 
 <details>
 <summary><strong>About my PhD:</strong></summary>
@@ -113,14 +134,18 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 ### Upcoming
 
-* May 21st — LSC, LIS, Marseille ([slides](https://www.irif.fr/_media/users/lancelot/lsc_lancelot_21may2026.pdf))
-* April 15th — **Interaction Improvement** — FoSSaCS 2026 in Torino, Italy ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_fossacs_intimprovement.pdf) — [poster](https://www.irif.fr/_media/users/lancelot/poster_etaps_interaction_improvement_final_web.pdf))
+* June 25th — [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2026-06-25/) — *A Simple Formal Proof of the  Genericity Lemma*
+* July 18th, 19th, 24th -- talks in [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) and [PERR](https://perr-workshop.github.io/2026/)
 
 ### Miscellaneous
 
-* November 17 2025 — [GdT Plume Seminar](https://www.ens-lyon.fr/LIP/PLUME/202-2/), ENS Lyon ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_slides_plume_nov2025_v2.pdf)) — talk titled **Interaction Equivalence and Improvement**
 * November 13 2025 — **PhD Defense** ([slides](https://www.irif.fr/_media/users/lancelot/slides-defense.pdf))
 * October 29 2025 — [GT Scalp days](https://www.irif.fr/gt-scalp/journees-2025) — talk titled **Constructive Contextual Equivalence?**
+
+### *Interaction Improvement*
+
+* April 15th — FoSSaCS 2026 in Torino, Italy ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_fossacs_intimprovement.pdf) — [poster](https://www.irif.fr/_media/users/lancelot/poster_etaps_interaction_improvement_final_web.pdf))
+* November 17 2025 — [GdT Plume Seminar](https://www.ens-lyon.fr/LIP/PLUME/202-2/), ENS Lyon ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_slides_plume_nov2025_v2.pdf)) — talk titled **Interaction Equivalence and Improvement**
 
 ### *Barendregt's Theory of the λ-Calculus, Refreshed and Formalized*
 
@@ -152,6 +177,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 
 ### *Light Genericity*
 
+* May 21st — LSC, LIS, Marseille ([slides](https://www.irif.fr/_media/users/lancelot/lsc_lancelot_21may2026.pdf), talk titled *Minimum and Maximum \(\lambda \)-Terms*)
 * April 10th 2024 — FoSSaCS 2024, Luxembourg ([slides](https://www.irif.fr/_media/users/lancelot/light_genericity_fossacs_lancelot.pdf))
 * February 22nd 2024 — [Séminaire PPS](seminaires/pps/index) ([slides](https://www.irif.fr/_media/users/lancelot/slides_pps_genericite.pdf))
 * November 28th 2023 — [GT Scalp Days](https://www.irif.fr/gt-scalp/journees-2023)
