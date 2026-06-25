@@ -12,11 +12,9 @@ I am a postdoctoral researcher in the University of Bologna working with [Ugo Da
 
 To email me: `adrienne dot lancelot at unibo dot it`
 
-(`lancelot at irif dot fr` also still works)
+(I also have an active `inria` email address)
 
-(I also have an active inria email address)
-
-(please avoid overusing/sharing my gmail address)
+(please avoid my `irif dot fr` and the `gmail dot com` addresses)
 
 ## News
 
