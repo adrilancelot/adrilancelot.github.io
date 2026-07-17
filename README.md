@@ -133,7 +133,7 @@ I work on untyped lambda-calculus and its variants, investigating operational an
 ### Upcoming
 
 * June 25th — [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2026-06-25/) — *A Simple Formal Proof of the  Genericity Lemma*
-* July 18th, 19th, 24th -- talks in [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) and [PERR](https://perr-workshop.github.io/2026/)
+* July 18th, 19th, 24th -- talks in [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) ([slides](https://adrilancelot.github.io/slides/lancelot_itrs_2026.pdf)) and [PERR](https://perr-workshop.github.io/2026/)
 
 ### Miscellaneous
 
