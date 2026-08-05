@@ -18,6 +18,8 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
+* Je suis dans le PC des [JFLA 2027](https://jfla.eu/jfla2027.html).
+
 * See you at FLoC 2026! I will be presenting three contributed talks in the workshops [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) and [PERR](https://perr-workshop.github.io/2026/).
 
 * A [long version](https://arxiv.org/abs/2402.12078v4) of *Mirroring Call-by-Need, or Values Acting Silly* has been accepted in the FSCD 2024 special issue of LMCS.
