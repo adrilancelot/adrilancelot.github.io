@@ -18,6 +18,8 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
+* My PhD thesis received the E.W. Beth Dissertation Award ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf)).
+
 * Je suis dans le PC des [JFLA 2027](https://jfla.eu/jfla2027.html).
 
 * See you at FLoC 2026! I will be presenting three contributed talks in the workshops [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) and [PERR](https://perr-workshop.github.io/2026/).
