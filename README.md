@@ -18,13 +18,11 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
-* My PhD thesis received the E.W. Beth Dissertation Award ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf)).
+* My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/?page_id=74) ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf)).
 
-* Je suis dans le PC des [JFLA 2027](https://jfla.eu/jfla2027.html).
+* Je suis dans le PC des [JFLA 2027](https://jfla.eu/jfla2027.html). Pensez à y envoyer un papier !
 
-* See you at FLoC 2026! I will be presenting three contributed talks in the workshops [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) and [PERR](https://perr-workshop.github.io/2026/).
-
-* A [long version](https://arxiv.org/abs/2402.12078v4) of *Mirroring Call-by-Need, or Values Acting Silly* has been accepted in the FSCD 2024 special issue of LMCS.
+* A [long version](https://lmcs.episciences.org/18820) of *Mirroring Call-by-Need, or Values Acting Silly* has been published in LMCS, for the FSCD 2024 special issue.
 
 * I am in the PC of [CSL 2027](https://csl2027.github.io/).
 
@@ -35,9 +33,15 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 <ul>
 <li>
+We may have met in FLoC 2026:  I presented three contributed talks in the workshops <a href="https://galop-2026.lacl.fr/">GALOP</a>,  <a href="https://itrs2026.tu-dortmund.de/">ITRS</a> and <a href="https://perr-workshop.github.io/2026/">PERR</a>.
+
+</li>
+
+
+<li>
 I am in the PC of the FLoC workshops 
 <a href="https://galop-2026.lacl.fr/">GALOP 2026</a> and 
-<a href="https://lipn.univ-paris13.fr/TLLA/2026/">TLLA 2026</a>. Don't forget to submit an abstract!
+<a href="https://lipn.univ-paris13.fr/TLLA/2026/">TLLA 2026</a>.
 
 </li>
 
@@ -255,7 +259,7 @@ I was also often involved in *Fête de la Science* (popularization and activitie
 ## Reviewing
 
 **Program Committees**:
-* 2027: PC member of [CSL 2027](https://csl2027.github.io/)
+* 2027: PC member of [CSL 2027](https://csl2027.github.io/),  [JFLA 2027](https://jfla.eu/jfla2027.html), ICFP 2027
 * 2026: PC member of [GALOP 2026](https://galop-2026.lacl.fr/) and [TLLA 2026](https://lipn.univ-paris13.fr/TLLA/2026/)
 
 **External Reviewer**:
