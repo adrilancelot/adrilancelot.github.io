@@ -18,7 +18,7 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
-* My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/?page_id=74) ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf)).
+* My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml) ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf)).
 
 * Je suis dans le PC des [JFLA 2027](https://jfla.eu/jfla2027.html). Pensez à y envoyer un papier !
 
