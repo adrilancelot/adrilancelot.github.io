@@ -20,6 +20,8 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 * My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml) ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf)).
 
+* I am in the PC of [ICFP 2027](https://icfp27.sigplan.org/track/icfp-2027-icfp-papers).
+
 * Je suis dans le PC des [JFLA 2027](https://jfla.eu/jfla2027.html). Pensez à y envoyer un papier !
 
 * A [long version](https://lmcs.episciences.org/18820) of *Mirroring Call-by-Need, or Values Acting Silly* has been published in LMCS, for the FSCD 2024 special issue.
@@ -32,6 +34,7 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 
 <ul>
+
 <li>
 We may have met in FLoC 2026:  I presented three contributed talks in the workshops <a href="https://galop-2026.lacl.fr/">GALOP</a>,  <a href="https://itrs2026.tu-dortmund.de/">ITRS</a> and <a href="https://perr-workshop.github.io/2026/">PERR</a>.
 
@@ -259,7 +262,7 @@ I was also often involved in *Fête de la Science* (popularization and activitie
 ## Reviewing
 
 **Program Committees**:
-* 2027: PC member of [CSL 2027](https://csl2027.github.io/),  [JFLA 2027](https://jfla.eu/jfla2027.html), ICFP 2027
+* 2027: PC member of [CSL 2027](https://csl2027.github.io/),  [JFLA 2027](https://jfla.eu/jfla2027.html), [ICFP 2027](https://icfp27.sigplan.org/)
 * 2026: PC member of [GALOP 2026](https://galop-2026.lacl.fr/) and [TLLA 2026](https://lipn.univ-paris13.fr/TLLA/2026/)
 
 **External Reviewer**:
