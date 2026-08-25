@@ -1,13 +1,12 @@
 # Adrienne Lancelot
 
-/!\ Website in construction.
 
 [Research](#research) -- [Publications](#publications)  -- [Talks](#talks) -- [Teaching](#teaching) -- [Misc](#service)
 
 
 
 
-I am a postdoctoral researcher in the University of Bologna working with [Ugo Dal Lago](https://udallago.github.io/).
+I am a postdoctoral researcher in the Università di Bologna working with [Ugo Dal Lago](https://udallago.github.io/). I am also affiliated with Inria in the [OLAS](https://www.inria.fr/fr/olas) team.
 
 
 To email me: `adrienne dot lancelot at unibo dot it`
