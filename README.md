@@ -1,7 +1,7 @@
 # Adrienne Lancelot
 
 
-[Research](#research) -- [Publications](#publications)  -- [Talks](#talks) -- [Teaching](#teaching) -- [Misc](#service)
+[Research](https://adrilancelot.github.io/research) -- [Publications](https://adrilancelot.github.io/publications)  -- [Talks](https://adrilancelot.github.io/talks) -- [Teaching](https://adrilancelot.github.io/teaching) -- [Service](https://adrilancelot.github.io/service) -- [Misc](https://adrilancelot.github.io/misc)
 
 
 
