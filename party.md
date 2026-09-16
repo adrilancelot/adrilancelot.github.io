@@ -1,4 +1,6 @@
+---
 layout: flashing
+---
 
 # Adrienne Lancelot
 
