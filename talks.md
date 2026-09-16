@@ -6,27 +6,38 @@
 
 ### Upcoming
 
-
-* June 25th — [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2026-06-25/) — *A Simple Formal Proof of the  Genericity Lemma* ([slides](https://adrilancelot.github.io/slides/lancelot_chocola_june2026.pdf))
-* July 18th, 19th, 24th -- talks in [GaLoP](https://galop-2026.lacl.fr/), [ITRS](https://itrs2026.tu-dortmund.de/) ([slides](https://adrilancelot.github.io/slides/lancelot_itrs_2026.pdf)) and [PERR](https://perr-workshop.github.io/2026/)  ([slides](https://adrilancelot.github.io/slides/lancelot_perr2026.pdf))
+* November 12th 2026 -- [Collège de France](https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes)
+* Whe(n/r)ever you invite me!
 
 ### Miscellaneous
 
-* November 13 2025 — **PhD Defense** ([slides](https://www.irif.fr/_media/users/lancelot/slides-defense.pdf))
-* October 29 2025 — [GT Scalp days](https://www.irif.fr/gt-scalp/journees-2025) — talk titled **Constructive Contextual Equivalence?**
+
+
+* July 19th -- *Takahashi's Gambit: Avoiding Context
+Lemmas in Operational Game Semantics* -- [GaLoP](https://galop-2026.lacl.fr/)
+* November 13th 2025 — **PhD Defense** ([slides](https://www.irif.fr/_media/users/lancelot/slides-defense.pdf))
+* October 29th 2025 — [GT Scalp days](https://www.irif.fr/gt-scalp/journees-2025) — talk titled **Constructive Contextual Equivalence?**
 
 ### *Interaction Improvement*
 
+
+
+* July 18th, --[ITRS](https://itrs2026.tu-dortmund.de/) ([slides](https://adrilancelot.github.io/slides/lancelot_itrs_2026.pdf))
 * April 15th — FoSSaCS 2026 in Torino, Italy ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_fossacs_intimprovement.pdf) — [poster](https://www.irif.fr/_media/users/lancelot/poster_etaps_interaction_improvement_final_web.pdf))
 * November 17 2025 — [GdT Plume Seminar](https://www.ens-lyon.fr/LIP/PLUME/202-2/), ENS Lyon ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_slides_plume_nov2025_v2.pdf), talk titled *Interaction Equivalence and Improvement*)
 
 ### *Barendregt's Theory of the λ-Calculus, Refreshed and Formalized*
 
+
+* June 25th — [Chocola seminar](https://chocola.ens-lyon.fr/events/meeting-2026-06-25/) — ([slides](https://adrilancelot.github.io/slides/lancelot_chocola_june2026.pdf), talk titled *A Simple Formal Proof of the  Genericity Lemma*)
 * September 29 2025 — ITP25 ([slides](https://www.irif.fr/_media/users/lancelot/lancelot_slidesitp25_online.pdf) — [video](https://www.youtube.com/watch?v=XwX6a7yK5Pg&list=PL0oY24ee23IO2EbtxZQT5PJErZFhJWE1J))
 * September 8 2025 — [Formath seminar](https://www.irif.fr/seminaires/picube/index)
 
 ### *Interaction Equivalence*
 
+
+
+* July 24th -- [PERR](https://perr-workshop.github.io/2026/)  ([slides](https://adrilancelot.github.io/slides/lancelot_perr2026.pdf))
 * March 23rd 2026 — séminaire du LACL, Créteil ([slides](https://www.irif.fr/_media/users/lancelot/seminaire_lacl_lancelot_mars2026.pdf))
 * January 21 2026 — [BOTSS Seminar](https://www.i2m.univ-amu.fr/perso/remy.cerda/seminar.php), Bologna, Italy ([slides](https://www.irif.fr/_media/users/lancelot/bologna_seminar_jan2025.pdf))
 * July 20 2025 — Invited Talk at [GaLoP](https://galop2025.di.ens.psl.eu), workshop of FSCD25 in Birmingham ([slides](https://www.irif.fr/_media/users/lancelot/galop25_lancelot.pdf))
