@@ -1,8 +1,10 @@
+# Adrienne Lancelot
+
+
+[&#8962;](https://adrilancelot.github.io/) -- [**Research**](https://adrilancelot.github.io/research) -- [Publications](https://adrilancelot.github.io/publications)  -- [Talks](https://adrilancelot.github.io/talks) -- [Teaching](https://adrilancelot.github.io/teaching) -- [Service](https://adrilancelot.github.io/service)
 
 
 
-
-# Research
 
 I work on untyped lambda-calculus and its variants, investigating operational and denotational semantics.
 
