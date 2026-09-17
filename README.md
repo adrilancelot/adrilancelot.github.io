@@ -99,6 +99,6 @@ Web read version (one-sided non-alternating margins):
 
 ---
 
-<sub>My coaster-count is 165. (updated August 30th 2025)</sub>
+<sub>My coaster-count is 177. (updated September 17th 2026)</sub>
 
 *Credit to [Mariana Milicich](https://www.irif.fr/users/milicich/index) for the `^?_?lambda^?_?` picture.*
