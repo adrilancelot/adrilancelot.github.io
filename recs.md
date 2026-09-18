@@ -19,7 +19,7 @@ I gather here a few links/recommendations of things I enjoy attending/reading/sh
 
 * [GT Scalp](https://www.irif.fr/gt-scalp/index): annual meeting (+ mailing list)
 * [GT LHC](https://smimram.gitlabpages.inria.fr/lhc/): annual meeting (+ mailing list)
-* Some annual schools: [EPIT](https://epit.irif.fr/) (French school on Theoretical CS, [ESSLLI](https://www.folli.info/esslli.shtml) (broader logic school, including linguistics), [FoPSS](https://etaps.org/about/fopss-schools/) (ETAPS affilated bi-annual summer schools, usually themed on a specific PL-semantics approach),
+* Some annual schools: [EPIT](https://epit.irif.fr/) (French school on Theoretical CS), [ESSLLI](https://www.folli.info/esslli.shtml) (broader logic school, including linguistics), [FoPSS](https://etaps.org/about/fopss-schools/) (ETAPS affilated bi-annual summer schools, usually themed on a specific PL-semantics approach),
 * [JFLA](https://jfla.eu/)
 
 
