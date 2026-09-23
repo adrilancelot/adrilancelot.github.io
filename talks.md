@@ -2,6 +2,10 @@
 
 [&#8962;](https://adrilancelot.github.io/) -- [Research](https://adrilancelot.github.io/research) -- [Publications](https://adrilancelot.github.io/publications)  -- [**Talks**](https://adrilancelot.github.io/talks) -- [Teaching](https://adrilancelot.github.io/teaching) -- [Service](https://adrilancelot.github.io/service)
 
+List of upcoming/miscellaneous (mostly one-shot talks)/past talks (categorized in the paper the content was mostly focused on).
+
+Slides are usually uploaded a couple hours before for most of my talks. If not publicly available here, you can always email me to ask for slides.
+
 
 
 ### Upcoming
@@ -12,7 +16,7 @@
 ### Miscellaneous
 
 
-
+* August 7th 2026 — [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml) ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf))
 * July 19th 2026  — [GaLoP](https://galop-2026.lacl.fr/) — talk titled  *Takahashi's Gambit: Avoiding Context Lemmas in Operational Game Semantics*
 * November 13th 2025 — **PhD Defense** ([slides](https://www.irif.fr/_media/users/lancelot/slides-defense.pdf))
 * October 29th 2025 — [GT Scalp days](https://www.irif.fr/gt-scalp/journees-2025) — talk titled *Constructive Contextual Equivalence?*
@@ -60,18 +64,18 @@
 
 ### *Light Genericity*
 
-* May 21st — LSC, LIS, Marseille ([slides](https://www.irif.fr/_media/users/lancelot/lsc_lancelot_21may2026.pdf), talk titled *Minimum and Maximum λ-Terms*)
+* May 21st 2026 — [LSC seminar](https://lsc.lis-lab.fr/lsc-seminar/), LIS, Marseille ([slides](https://www.irif.fr/_media/users/lancelot/lsc_lancelot_21may2026.pdf), talk titled *Minimum and Maximum λ-Terms*)
 * April 10th 2024 — FoSSaCS 2024, Luxembourg ([slides](https://www.irif.fr/_media/users/lancelot/light_genericity_fossacs_lancelot.pdf))
 * February 22nd 2024 — [Séminaire PPS](seminaires/pps/index) ([slides](https://www.irif.fr/_media/users/lancelot/slides_pps_genericite.pdf))
 * November 28th 2023 — [GT Scalp Days](https://www.irif.fr/gt-scalp/journees-2023)
 
 ### *Normal Form Bisimulations by Value*
 
-* March 7th 2024 — Séminaire LIMD ([slides](https://www.irif.fr/_media/users/lancelot/chambery_slides_lancelot.pdf))
+* March 7th 2024 — [Séminaire LIMD](https://www.lama.univ-smb.fr/seminars/limd), LAMA, Chambéry ([slides](https://www.irif.fr/_media/users/lancelot/chambery_slides_lancelot.pdf))
 * January 14th 2024 — GALOP24, workshop of POPL24 in London ([slides](https://www.irif.fr/_media/users/lancelot/slides_galop_lancelot.pdf))
 * November 21st 2023 — University of Birmingham ([slides](https://www.irif.fr/_media/users/lancelot/slides_lancelot_birmingham.pdf))
 * November 6th 2023 — Theory Lunch at Queen Mary University of London (informal whiteboard talk titled *Syntactical Program Equivalence*)
-* October 5th 2023 — Séminaire Love ([slides](https://www.irif.fr/_media/users/lancelot/slides_lipn_lancelot.pdf))
+* October 5th 2023 — Séminaire Love, LIPN, Villetaneuse ([slides](https://www.irif.fr/_media/users/lancelot/slides_lipn_lancelot.pdf))
 * June 12th 2023 — TYPES23 ([slides](https://www.irif.fr/_media/users/lancelot/types23_lancelot_nfbbv.pdf))
 * May 11th 2023 — Chocola ([slides](https://www.irif.fr/_media/users/lancelot/slides-chocola-lancelot-11-05.pdf))
 * October 19th 2022 — [GT Syntax Meets Semantics](https://www.irif.fr/seminaires/sms/index) (talk titled *Open Call-by-Value and Open Similarity*)

@@ -16,7 +16,7 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
-* My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml) ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf)).
+* My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml).
 
 * I am in the PC of [ICFP 2027](https://icfp27.sigplan.org/track/icfp-2027-icfp-papers).
 
