@@ -1,6 +1,6 @@
 # Adrienne Lancelot
 
-[**&#8962;**](https://adrilancelot.github.io/) -- [Research](https://adrilancelot.github.io/research) -- [Publications](https://adrilancelot.github.io/publications)  -- [Talks](https://adrilancelot.github.io/talks) -- [Teaching](https://adrilancelot.github.io/teaching) -- [Service](https://adrilancelot.github.io/service)
+[**&#8962;**](https://adrilancelot.github.io/) -- [Research](https://adrilancelot.github.io/research) -- [Publications](https://adrilancelot.github.io/publications)  -- [Talks](https://adrilancelot.github.io/talks) -- [Teaching](https://adrilancelot.github.io/teaching) -- [Service](https://adrilancelot.github.io/service) -- [&#411;](https://adrilancelot.github.io/lambda)
 
 
 
@@ -16,6 +16,8 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
+* I will give a seminar at Collège de France as part of [Xavier Leroy's lectures on program equivalence](https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes) on November 12th.
+
 * My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml).
 
 * I am in the PC of [ICFP 2027](https://icfp27.sigplan.org/track/icfp-2027-icfp-papers).
@@ -24,7 +26,6 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 * A [long version](https://lmcs.episciences.org/18820) of *Mirroring Call-by-Need, or Values Acting Silly* has been published in LMCS, for the FSCD 2024 special issue.
 
-* I am in the PC of [CSL 2027](https://csl2027.github.io/).
 
 
 <details>
@@ -32,6 +33,10 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 
 <ul>
+
+<li>
+I am in the PC of [CSL 2027](https://csl2027.github.io/).
+</li>
 
 <li>
 We may have met in FLoC 2026:  I presented three contributed talks in the workshops <a href="https://galop-2026.lacl.fr/">GALOP</a>,  <a href="https://itrs2026.tu-dortmund.de/">ITRS</a> and <a href="https://perr-workshop.github.io/2026/">PERR</a>.
@@ -96,9 +101,3 @@ Web read version (one-sided non-alternating margins):
 </details>
 
 
-
----
-
-<sub>My coaster-count is 177. (updated September 17th 2026)</sub>
-
-*Credit to [Mariana Milicich](https://www.irif.fr/users/milicich/index) for the `^?_?lambda^?_?` picture.*
