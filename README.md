@@ -16,6 +16,9 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 ## News
 
+
+* I am in the PC of [ITP 2027](https://itp-conference-2027.github.io/).
+
 * I will give a seminar at Collège de France as part of [Xavier Leroy's lectures on program equivalence](https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes) on November 12th.
 
 * My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml).
@@ -35,7 +38,7 @@ To email me: `adrienne dot lancelot at unibo dot it`
 <ul>
 
 <li>
-I am in the PC of [CSL 2027](https://csl2027.github.io/).
+I am in the PC of <a href="https://csl2027.github.io/">CSL 2027</a>.
 </li>
 
 <li>
@@ -59,45 +62,4 @@ I am starting a postdoc with
 
 </details>
 
-<details>
-<summary><strong>About my PhD:</strong></summary>
-
-<p>
-From Sept 2022 to Nov 2025, I was a PhD student under the supervision of
-<a href="https://sites.google.com/site/beniaminoaccattoli/">Beniamino Accattoli</a>
-(LIX Partout, INRIA) and
-<a href="https://www.irif.fr/~faggian/">Claudia Faggian</a>
-(IRIF, CNRS) `;`
-<a href="https://www.irif.fr/~gmanzone/">Giulio Manzonetto</a>
-(IRIF, Université Paris Cité).
-</p>
-
-<ul>
-<li>
-I <a href="https://www.irif.fr/users/lancelot/soutenance">defended</a>
-my PhD thesis titled
-<em>Comparing functional programs, or how to put λ-terms back in order</em>
-on <strong>November 13th 2025</strong> at the IRIF lab.
-</li>
-</ul>
-
-<p>
-<strong>PhD Manuscript:</strong>
-<em>Comparing functional programs, or how to put λ-terms back in order</em>
-</p>
-
-<ul>
-<li>
-Print version (two-sided alternating margins):
-<a href="https://www.irif.fr/_media/users/lancelot/thesis_v09-12-2025b.pdf">pdf</a>
-</li>
-
-<li>
-Web read version (one-sided non-alternating margins):
-<a href="https://www.irif.fr/_media/users/lancelot/thesis-onesided_v09-12-2025.pdf">pdf</a>
-</li>
-</ul>
-
-</details>
-
-
+[**About my PhD Thesis**](https://adrilancelot.github.io/phd)

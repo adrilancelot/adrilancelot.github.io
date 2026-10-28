@@ -7,7 +7,7 @@
 ## Reviewing
 
 **Program Committees**:
-* 2027: PC member of [CSL 2027](https://csl2027.github.io/),  [JFLA 2027](https://jfla.eu/jfla2027.html), [ICFP 2027](https://icfp27.sigplan.org/)
+* 2027: PC member of [CSL 2027](https://csl2027.github.io/),  [JFLA 2027](https://jfla.eu/jfla2027.html), [ICFP 2027](https://icfp27.sigplan.org/), [ITP 2027](https://itp-conference-2027.github.io/)
 * 2026: PC member of [GALOP 2026](https://galop-2026.lacl.fr/) and [TLLA 2026](https://lipn.univ-paris13.fr/TLLA/2026/)
 
 **External Reviewer**:

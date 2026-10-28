@@ -6,6 +6,9 @@
 
 ### In proceedings
 
+
+* **Mirroring Call-by-Need, or Values Acting Silly** — Accattoli and Lancelot, LMCS 2026 ([paper](https://lmcs.episciences.org/18820), journal version of the FSCD24 paper)
+
 * **Interaction Improvement** — Lancelot, Manzonetto, McCusker and Vanoni, FoSSaCS 2026 ([paper at publisher's](https://doi.org/10.1007/978-3-032-22730-0_18), [preferred version with proofs](https://arxiv.org/abs/2601.01638))
 
 * **Barendregt's Theory of the Lambda-Calculus, Refreshed and Formalized** — Lancelot, Accattoli and Vemclefs, ITP 2025 ([paper](https://doi.org/10.4230/LIPIcs.ITP.2025.13) — [formalization](https://github.com/adrilancelot/Abella-lambda-Barendregt-theory))
@@ -21,7 +24,7 @@
 
 ### PhD Thesis
 
-* **Comparing functional programs, or how to put λ-terms back in order** — Lancelot ([hal-theses](https://theses.hal.science/tel-05407883))
+* **Comparing functional programs, or how to put λ-terms back in order** — Lancelot ([hal-theses](https://theses.hal.science/tel-05407883), [more info](https://adrilancelot.github.io/phd))
 
 ### Preprints
 
