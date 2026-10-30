@@ -7,23 +7,19 @@
  
 
 <p>
-From Sept 2022 to Nov 2025, I was a PhD student under the supervision of
+From September 2022 to November 2025, I was a PhD student under the supervision of
 <a href="https://sites.google.com/site/beniaminoaccattoli/">Beniamino Accattoli</a>
 (LIX Partout, INRIA) and
-<a href="https://www.irif.fr/~faggian/">Claudia Faggian</a>
-(IRIF, CNRS) `;`
 <a href="https://www.irif.fr/~gmanzone/">Giulio Manzonetto</a>
-(IRIF, Université Paris Cité).
+(IRIF, Université Paris Cité) [Previously also co-supervised by 
+<a href="https://www.irif.fr/~faggian/">Claudia Faggian</a>
+(IRIF, CNRS)].
 </p>
 
-<ul>
-<li>
+
 I <a href="https://www.irif.fr/users/lancelot/soutenance">defended</a>
-my PhD thesis titled
-<em>Comparing functional programs, or how to put λ-terms back in order</em>
-on <strong>November 13th 2025</strong> at the IRIF lab.
-</li>
-</ul>
+my PhD thesis on <strong>November 13th 2025</strong> at the IRIF lab.
+
 
 <p>
 <strong>PhD Manuscript:</strong>
@@ -32,11 +28,11 @@ on <strong>November 13th 2025</strong> at the IRIF lab.
 
 **How to read it**
 
-* Official Print Version (the one you can find on [hal](https://theses.hal.science/tel-05407883)) -- [local copy](https://www.irif.fr/_media/users/lancelot/thesis_v09-12-2025b.pdf)
+* Official Print Version ([hal](https://theses.hal.science/tel-05407883), [local copy](https://www.irif.fr/_media/users/lancelot/thesis_v09-12-2025b.pdf))
 
-* Webread Version (in case the alternating margins make you seasick) -- [local copy](https://www.irif.fr/_media/users/lancelot/thesis-onesided_v09-12-2025.pdf). Page numbers are preserved.
+* Webread Version ([local copy](https://www.irif.fr/_media/users/lancelot/thesis-onesided_v09-12-2025.pdf), in case the alternating margins make you seasick, page numbers are preserved)
 
-* TLDR: 10-page summary [local copy soon available]()
+* TLDR: 10-page summary ([local copy](https://adrilancelot.github.io/documents/phd/10-page-summary.pdf))
 
 
 
@@ -54,17 +50,17 @@ on <strong>November 13th 2025</strong> at the IRIF lab.
 
 <ul>
 <li>
-Conjecture X is now Theorem Y in Interaction Improvement (L., Manzonetto, McCusker and Vanoni).
+Conjecture <a href="https://theses.hal.science/tel-05407883v2/document#theorem.3.5.7">3.5.7</a> is now Theorem <a href="https://arxiv.org/pdf/2601.01638#theorem.1.5">5</a> in <i>Interaction Improvement<\i> (L., Manzonetto, McCusker and Vanoni). This also provides a proof of Conjecture <a href="https://theses.hal.science/tel-05407883v2/document#section*.258">3.2.9</a>.<br />
 
-We almost had everything ready as I was writing my thesis, but did you really want an additional 50 pages?
+We almost had everything ready as I was writing my thesis, but did you <em>really</em> want an additional 50 pages?
 </li>
 
 
 <li>
-Conjecture Z will never grow up to be a theorem, as it is **false**.
+Conjecture <a href="https://theses.hal.science/tel-05407883v2/document#section*.456">7.5.10</a> will never grow up to be a theorem, as it is <b>false</b>.<br />
 
-Actually, net bisimilarity (as defined p.P) is not transitive (disproving the informal conjecture of p.Q) and it is the same counterexample to conjecture Z.
-Do not despair, I think I know how to fix it!
+Actually, net bisimilarity (as defined p.<a href="https://theses.hal.science/tel-05407883v2/document#theorem.7.4.6">217</a>) is not transitive (disproving the informal conjecture of p.217) and it is the same counterexample to conjecture <a href="https://theses.hal.science/tel-05407883v2/document#section*.456">7.5.10</a>.
+<i>I have a new updated conjecture ready to be broken again.</i><br />
 
 Thanks to Jean-Marie Madiot for help in pinpointing the counterexample!
 
