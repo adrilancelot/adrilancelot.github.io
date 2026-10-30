@@ -50,7 +50,7 @@ my PhD thesis on <strong>November 13th 2025</strong> at the IRIF lab.
 
 <ul>
 <li>
-Conjecture <a href="https://theses.hal.science/tel-05407883v2/document#theorem.3.5.7">3.5.7</a> is now Theorem <a href="https://arxiv.org/pdf/2601.01638#theorem.1.5">5</a> in <i>Interaction Improvement<\i> (L., Manzonetto, McCusker and Vanoni). This also provides a proof of Conjecture <a href="https://theses.hal.science/tel-05407883v2/document#section*.258">3.2.9</a>.<br />
+Conjecture <a href="https://theses.hal.science/tel-05407883v2/document#subsection.3.5.4">3.5.7</a> is now Theorem <a href="https://arxiv.org/pdf/2601.01638#theorem.1.5">5</a> in <i>Interaction Improvement</i> (L., Manzonetto, McCusker and Vanoni). This also provides a proof of Conjecture <a href="https://theses.hal.science/tel-05407883v2/document#section*.258">3.2.9</a>.<br />
 
 We almost had everything ready as I was writing my thesis, but did you <em>really</em> want an additional 50 pages?
 </li>
