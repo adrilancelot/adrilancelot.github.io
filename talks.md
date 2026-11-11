@@ -10,7 +10,7 @@ Slides are usually uploaded a couple hours before for most of my talks. If not p
 
 ### Upcoming
 
-* November 12th 2026  —  [Collège de France](https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes)
+* November 12th 2026  —  [Collège de France](https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes) ([slides](https://adrilancelot.github.io/slides/seminaire_collegedefrance_12-11-2026.pdf))
 * Whe(n/r)ever you invite me!
 
 ### Miscellaneous
