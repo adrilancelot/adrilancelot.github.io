@@ -4,7 +4,9 @@
 
 <sub>
 List of upcoming, miscellaneous (mostly one-shot talks) and past talks (categorized in the paper the content was mostly focused on).
+</sub>
 
+<sub>
 Slides are usually uploaded a couple hours before for most of my talks. If not publicly available here, you can always email me to ask for slides.
 </sub>
 
