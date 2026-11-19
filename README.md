@@ -19,7 +19,7 @@ To email me: `adrienne dot lancelot at unibo dot it`
 
 * I am in the PC of [ITP 2027](https://itp-conference-2027.github.io/).
 
-* I will give a seminar at Collège de France as part of [Xavier Leroy's lectures on program equivalence](https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes) on November 12th.
+* I gave a seminar at Collège de France as part of [Xavier Leroy's lectures on program equivalence](https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes) on November 12th (in French, [video](https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/equivalence-interaction)).
 
 * My PhD thesis received the [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml).
 

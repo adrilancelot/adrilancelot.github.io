@@ -2,21 +2,22 @@
 
 [&#8962;](https://adrilancelot.github.io/) -- [Research](https://adrilancelot.github.io/research) -- [Publications](https://adrilancelot.github.io/publications)  -- [**Talks**](https://adrilancelot.github.io/talks) -- [Teaching](https://adrilancelot.github.io/teaching) -- [Service](https://adrilancelot.github.io/service) -- [&lambda;](https://adrilancelot.github.io/lambda)
 
+<sub>
 List of upcoming, miscellaneous (mostly one-shot talks) and past talks (categorized in the paper the content was mostly focused on).
 
 Slides are usually uploaded a couple hours before for most of my talks. If not publicly available here, you can always email me to ask for slides.
-
+</sub>
 
 
 ### Upcoming
 
-* November 17th 2026 — Séminaire à [Gallinette](https://gallinette.gitlabpages.inria.fr/website/) ([slides](https://adrilancelot.github.io/slides/seminaire_gallinette_17nov2026.pdf))
-* November 12th 2026  —  [Collège de France](https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes) ([slides](https://adrilancelot.github.io/slides/seminaire_collegedefrance_12-11-2026.pdf))
-* Whe(n/r)ever you invite me!
+* None at the moment.
+
 
 ### Miscellaneous
 
 
+* November 16th 2026 — Workshop on [Taylor, Böhm and Approximations](https://kostiachardonnet.github.io/tba) — talk titled *Semantically Free Variables* (no slides)
 * August 7th 2026 — [E.W. Beth Dissertation Award](https://folli.info/beth2026.shtml) ([slides](https://adrilancelot.github.io/slides/lancelot_beth_talk.pdf))
 * July 19th 2026  — [GaLoP](https://galop-2026.lacl.fr/) — talk titled  *Takahashi's Gambit: Avoiding Context Lemmas in Operational Game Semantics*
 * November 13th 2025 — **PhD Defense** ([slides](https://www.irif.fr/_media/users/lancelot/slides-defense.pdf))
@@ -41,6 +42,8 @@ Slides are usually uploaded a couple hours before for most of my talks. If not p
 
 
 
+* November 17th 2026 — Séminaire à [Gallinette](https://gallinette.gitlabpages.inria.fr/website/) ([slides](https://adrilancelot.github.io/slides/seminaire_gallinette_17nov2026.pdf))
+* November 12th 2026  —  [Collège de France](https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes) ([slides](https://adrilancelot.github.io/slides/seminaire_collegedefrance_12-11-2026.pdf), [video](https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/equivalence-interaction), exposé en français)
 * July 24th 2026 — [PERR](https://perr-workshop.github.io/2026/) ([slides](https://adrilancelot.github.io/slides/lancelot_perr2026.pdf))
 * March 23rd 2026 — séminaire du LACL, Créteil ([slides](https://www.irif.fr/_media/users/lancelot/seminaire_lacl_lancelot_mars2026.pdf))
 * January 21st 2026 — [BOTSS Seminar](https://www.i2m.univ-amu.fr/perso/remy.cerda/seminar.php), Bologna, Italy ([slides](https://www.irif.fr/_media/users/lancelot/bologna_seminar_jan2025.pdf))
